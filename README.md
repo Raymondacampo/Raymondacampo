@@ -1,12 +1,12 @@
 # Hi, I'm [Your Name] 👋
 
-> Replace every text inside brackets with your real information.
+> Replace all text inside brackets with your real information.
 
 ## Professional headline
 [Frontend Developer | Backend Developer | Full-Stack Developer | Software Engineer]
 
 ## About me
-I am a [your role] passionate about building [web applications, APIs, mobile apps, data tools, etc.].
+I am a [Software Engineer] passionate about building [web applications, APIs, mobile apps, data tools, etc.].
 
 I enjoy working with **[main technologies]** and solving problems related to **[your specialty]**.
 
@@ -70,9 +70,9 @@ Currently, I am focused on **[what you are learning, building, or improving righ
 **Tech used:** [Next.js, TypeScript, MongoDB]
 
 ## Contact
-- LinkedIn: [your-linkedin-url]
-- Portfolio: [your-portfolio-url]
-- Email: [your-email@example.com]
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-name)
+- Portfolio: [My Portfolio](https://your-portfolio.com)
+- Email: [your-email@example.com](mailto:your-email@example.com)
 
 ## Optional extras
 If you want to make your README look more complete, you can also add:
