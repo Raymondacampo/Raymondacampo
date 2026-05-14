@@ -70,8 +70,8 @@ Currently, I am focused on **[what you are learning, building, or improving righ
 **Tech used:** [Next.js, TypeScript, MongoDB]
 
 ## Contact
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-name)
-- Portfolio: [My Portfolio](https://your-portfolio.com)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-linkedin-username)
+- Portfolio: [My Portfolio](https://your-portfolio-url.com)
 - Email: [your-email@example.com](mailto:your-email@example.com)
 
 ## Optional extras
@@ -91,3 +91,4 @@ If you want to make your README look more complete, you can also add:
 3. Add only the skills that truly represent your experience.
 4. Keep project descriptions short and professional.
 5. Add links to your best work so people can verify your skills quickly.
+6. Your portfolio link can be a custom domain, GitHub Pages, Vercel, Netlify, or any other public URL.
