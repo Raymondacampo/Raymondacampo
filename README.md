@@ -1,54 +1,43 @@
-# Hi, I'm [Your Name] 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Raymond%20A'campo%20👋&fontSize=54)
 
-> Replace all text inside brackets with your real information.
-
-## Professional headline
-[Frontend Developer | Backend Developer | Full-Stack Developer | Software Engineer]
+### Full-Stack Developer
 
 ## About me
-I am a [Software Engineer] passionate about building [web applications, APIs, mobile apps, data tools, etc.].
+I am a Full-Stack Developer passionate about building web applications and APIs.
 
-I enjoy working with **[main technologies]** and solving problems related to **[your specialty]**.
+I enjoy working with Next.js, Python, PSQL and solving problems related to **data management, projects arquitechture and real life oriented apps**.
 
-Currently, I am focused on **[what you are learning, building, or improving right now]**.
+Currently, I am focused on **building mobile apps to match web apps and make it all-enviroment**.
 
 ## What I do
-- 💼 I work with: **[your current job, freelance work, or projects]**
-- 🚀 I build: **[type of products or solutions you create]**
-- 🌱 I am learning: **[new tools, frameworks, or concepts]**
-- 🤝 I want to collaborate on: **[open source, startups, web apps, etc.]**
-- 💬 Ask me about: **[your strongest topics]**
+- 💼 I work with: **A real-time mobile app for events**
+- 🚀 I build: **Object-oriented real life apps to manage big data**
+- 🌱 I am learning: **To build and deploy mobile apps**
+- 🤝 I want to collaborate on: **Web and mobile apps creation and ideas**
+- 💬 Ask me about: **Creativity, brainstorm on how to create and improve project structures and user applications**
 
 ## My stack
-### Languages
-- [JavaScript]
-- [TypeScript]
-- [Python]
-- [Java]
 
 ### Frontend
-- [React]
-- [Next.js]
-- [HTML]
-- [CSS]
-- [Tailwind CSS]
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-- [Node.js]
-- [Express]
-- [Django]
-- [Spring Boot]
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Databases
-- [PostgreSQL]
-- [MySQL]
-- [MongoDB]
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&border=1)
 
 ### Tools
-- [Git]
-- [GitHub]
-- [Docker]
-- [Figma]
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
 
 ## Skills and abilities
 - ✅ Building clean and responsive interfaces
@@ -59,36 +48,23 @@ Currently, I am focused on **[what you are learning, building, or improving righ
 - ✅ Solving problems and learning new technologies quickly
 
 ## Featured projects
-### [Project Name 1]
-[One or two lines describing what the project does and the value it provides.]
+### DoctyHealth (https://docty-health.vercel.app/)
+A full-stack healthcare platform built to connect patients with doctors through appointment scheduling, profile management, reviews, and personalized search features. Doctors can manage availability, clinics, and insurance information through an intuitive dashboard, while patients can easily discover and book trusted healthcare professionals.
 
-**Tech used:** [React, Node.js, PostgreSQL]
+**Tech used:** Next.js, Django / DRF, PostgreSQL
 
-### [Project Name 2]
-[One or two lines describing what the project does and the value it provides.]
+### CDBS
+A simple frontend project for a dance school focused on design, the SEO and impressing the users with images of ballerinas and ballet accesories, so whenever an user wants to know some information about the school, its just one search away.
 
-**Tech used:** [Next.js, TypeScript, MongoDB]
+**Tech used:** Next.js, TypeScript
 
 ## Contact
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-linkedin-username)
-- Portfolio: [My Portfolio](https://your-portfolio-url.com)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: www.linkedin.com/in/ramond-a-campo-433621272
+- Portfolio: COMING SOON
+- Email: raymondacamposandoval@gmail.com (mailto:raymondacamposandoval@gmail.com)
 
-## Optional extras
-If you want to make your README look more complete, you can also add:
-- GitHub stats
-- Top languages
-- Badges for technologies
-- A profile banner
-- Certifications
-- Testimonials or achievements
+## 📊 Stadistics
 
----
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=raymondacampo&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 
-## Quick customization guide
-1. Replace all bracketed text with your real information.
-2. Remove technologies you do not use.
-3. Add only the skills that truly represent your experience.
-4. Keep project descriptions short and professional.
-5. Add links to your best work so people can verify your skills quickly.
-6. Your portfolio link can be a custom domain, GitHub Pages, Vercel, Netlify, or any other public URL.
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raymondacampo&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
